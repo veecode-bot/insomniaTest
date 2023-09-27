@@ -1,0 +1,8 @@
+site_name: "insomniaTest"
+site_description: "insomniaTest"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
